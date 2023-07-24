@@ -1,7 +1,10 @@
 {
     "rollno" : 23,
     "name" : "Priya",
-    "contact" : 9123456789
+    "contact" : 9123456789,
+    "city" : "Chennai",
+    "sclass" : "XII",
+    "simage" : "https://img.freepik.com/free-photo/young-smiling-confident-woman-using-laptop-computer-looking-camera-isolated-white-background_231208-9497.jpg?w=1060&t=st=1690178324~exp=1690178924~hmac=edc3ecf34f35f81c0f0d6acba3c95a51e6204678dbb544ecfb007dd39e211ecb"
   
 }
     
